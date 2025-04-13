@@ -57,5 +57,7 @@ eficiencia del desarrollo.
 
 Paso 1 
 Instalación de docker 
- ![Descripción de la imagen](https://github.com/Edissonfierro/docker1/blob/main/1.jpg?raw=true)
+  
+ ![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/1.jpg)
+
   
