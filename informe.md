@@ -10,18 +10,53 @@
 
 ## 3. Fundamentos
 
-Docker es una plataforma que permite crear, desplegar y ejecutar aplicaciones 
-mediante contenedores. Un contenedor es una unidad estándar de software que 
-empaqueta el código y todas sus dependencias para que la aplicación se ejecute 
-de manera rápida y confiable en cualquier entorno.
+## ¿Qué es Docker y cómo funciona?
 
-Nginx es un servidor web ligero, de alto rendimiento, que también funciona como 
-proxy inverso, equilibrador de carga, y más. Su eficiencia lo ha posicionado como 
-uno de los servidores más populares a nivel mundial.
+Según el repositorio de Red Hat, **Docker** es la tecnología de organización en contenedores que posibilita la creación y el uso de los contenedores de Linux®.
 
-Esta práctica combina Docker y Nginx para demostrar cómo levantar múltiples 
-servidores web dentro de contenedores, facilitando la portabilidad, escalabilidad y 
-eficiencia del desarrollo.
+La tecnología Docker utiliza el kernel de Linux y sus funciones, como los **grupos de control** y los **espacios de nombre**, para dividir los procesos y ejecutarlos de manera independiente.  
+El propósito de los contenedores es ejecutar varios procesos y aplicaciones por separado para que se pueda aprovechar mejor la infraestructura y, al mismo tiempo, conservar la seguridad que se obtendría con los sistemas individuales.
+
+---
+
+## ¿Qué son los contenedores?
+
+Las herramientas de los contenedores, como Docker, proporcionan un **modelo de implementación basado en imágenes**.  
+Esto permite compartir fácilmente una aplicación o un conjunto de servicios, con todas las dependencias en varios entornos.
+
+Docker también **automatiza la implementación** de las aplicaciones (o los conjuntos de procesos que las constituyen) en el entorno de contenedores.
+
+---
+
+## ¿Qué es Nginx?
+
+**Nginx**, pronunciado como “engine-ex”, es un **servidor web de código abierto** que, desde su éxito inicial como servidor web, ahora también es usado como:
+- Proxy inverso
+- Caché de HTTP
+- Balanceador de carga
+
+### Algunas características comunes de Nginx incluyen:
+- Proxy inverso con caché
+- Soporte para IPv6
+- Balanceo de carga
+- Soporte FastCGI con almacenamiento en caché
+- Websockets
+- Manejo de archivos estáticos, archivos de índice y auto indexación
+- TLS / SSL con SNI
+
+---
+
+## ¿Qué es una imagen en contenedores?
+
+Una **imagen de contenedor** es como una *plantilla* o *receta* que contiene todo lo necesario para ejecutar una aplicación.
+
+> Piénsalo así: si el contenedor es la "casa", la imagen es el "plano de construcción".
+
+### Esta imagen incluye:
+- El código de la aplicación.
+- Las dependencias (librerías, frameworks).
+- Herramientas mínimas del sistema operativo.
+- Archivos de configuración.
 
 ## 4. Conocimientos previos
 
@@ -61,3 +96,16 @@ Instalación de docker
  ![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/1.jpg)
 
   ![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/2.jpg)
+
+
+
+  ## 9. Resultados esperados
+
+
+
+## 10. Bibliografía
+
+Red Hat. (n.d.). *What is Docker?*. Red Hat. Recuperado el 12 de abril de 2025, de https://www.redhat.com/es/topics/containers/what-is-docker
+
+Kinsta. (n.d.). *¿Qué es Nginx?*. Kinsta. Recuperado el 12 de abril de 2025, de https://kinsta.com/es/base-de-conocimiento/que-es-nginx/
+
