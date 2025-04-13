@@ -60,4 +60,4 @@ Instalación de docker
   
  ![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/1.jpg)
 
-  
+  ![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/2.jpg)
