@@ -90,8 +90,8 @@ Una **imagen de contenedor** es como una *plantilla* o *receta* que contiene tod
 
 ## 8. Procedimiento
 
-Paso 1 
-Instalación de docker 
+## Paso 1 
+# Instalación de docker 
   
  ![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/1.jpg)
 
