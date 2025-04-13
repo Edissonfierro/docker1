@@ -23,16 +23,6 @@ Esta práctica combina Docker y Nginx para demostrar cómo levantar múltiples
 servidores web dentro de contenedores, facilitando la portabilidad, escalabilidad y 
 eficiencia del desarrollo.
 
-**Imagen 1-1: Arquitectura de Docker y contenedores Nginx**
-
-![Arquitectura de Docker](https://www.docker.com/wp-content/uploads/2022/03/what-is-docker-1024x576.png)
-
-**Imagen 1-2: Funcionamiento de Nginx**
-
-![Funcionamiento de Nginx](https://miro.medium.com/max/1400/1*kgLHLsRYZ8XZ37DT0F8Ovg.png)
-
-Docker simplifica la administración de servidores web, permitiendo el despliegue de múltiples instancias de Nginx en contenedores independientes que funcionan de manera simultánea en un mismo sistema anfitrión.
-
 ## 4. Conocimientos previos
 
 - Comandos básicos de Linux.
@@ -65,6 +55,6 @@ Docker simplifica la administración de servidores web, permitiendo el despliegu
 
 ## 8. Procedimiento
 
-**Paso 1:** Crear el primer contenedor Nginx llamado nginx1 exponiendo el puerto 8089.
-```bash
-docker run -d --name nginx1 -p 8089:80 nginx
+Paso 1 
+Instalación de docker 
+ https://github.com/Edissonfierro/docker1/blob/main/1.jpg?raw=true
