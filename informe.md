@@ -97,6 +97,9 @@ Una **imagen de contenedor** es como una *plantilla* o *receta* que contiene tod
 
   ![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/2.jpg)
 
+## Paso 2 
+# Creación de contenedores
+ ![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/3.jpg)
 
 
   ## 9. Resultados esperados
