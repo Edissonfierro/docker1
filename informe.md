@@ -102,6 +102,15 @@ Una **imagen de contenedor** es como una *plantilla* o *receta* que contiene tod
  ![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/3.jpg)
 
 
+## PAso 3 Copiar el archivo html
+
+![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/4.jpg)
+
+## PAso 4 Editar los archivos con nano 
+
+![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/5.jpg)
+![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/6.jpg)
+
   ## 9. Resultados esperados
 
 
