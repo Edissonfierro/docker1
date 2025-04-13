@@ -113,6 +113,15 @@ Una **imagen de contenedor** es como una *plantilla* o *receta* que contiene tod
 
   ## 9. Resultados esperados
 
+##Local host 8089
+![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/7.jpg)
+##Local host 8090
+
+![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/8.jpg)
+
+##Evidencia de los contenedores 
+
+![Texto alternativo](https://github.com/Edissonfierro/docker1/blob/main/9.jpg)
 
 
 ## 10. Bibliografía
